@@ -25,4 +25,4 @@ Run following command for get selenium chrome:
 
 # Running Project with several url
 
-> py screenshots.py \<urls>
+> python screenshots.py \<urls>
